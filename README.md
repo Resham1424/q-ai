@@ -1,1 +1,1 @@
-# Q.ai-AI Queue Simulator for Nothing
+# Q.ai - AI Queue simulator
