@@ -44,3 +44,12 @@ Click Start AI to see it “think” randomly.
 Press q for a secret Easter egg.
 
 Navigate through pages via the navbar and enjoy the uselessness!
+
+---
+
+## Footer
+
+Created for Wreckathon 2025 – where uselessness meets creativity.
+
+Have fun! Remember: Q-AI does nothing, and that’s its superpower.
+
