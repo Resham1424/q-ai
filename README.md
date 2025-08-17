@@ -30,3 +30,17 @@ Why solve real problems when you can create an AI that does… absolutely nothin
 1. Clone the repository:  
 ```bash
 git clone https://github.com/Resham1424/q-ai.git
+Deployment
+
+The project is deployed on GitHub Pages:
+https://Resham1424.github.io/q-ai/
+
+Usage
+
+Open the app in your browser.
+
+Click Start AI to see it “think” randomly.
+
+Press q for a secret Easter egg.
+
+Navigate through pages via the navbar and enjoy the uselessness!
