@@ -85,6 +85,10 @@ Easter Egg
 
 Press “q” and enjoy a secret alert message – still completely useless, of course. 😜
 
+### Demo Video
+[Watch the Q-AI demo](./react-app-google-chrome-2025-08-18-11-06-04_2FSyIhIz.mp4)
+
+
 Credits
 
 Created for Wreckathon 2025 – where uselessness meets creativity.
